@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat
 import java.util.Date
 
 /**
-  * Created by yang.rui on 2017.
+  * Created by zz on 2017.
   *
   * Log.scala
   *
