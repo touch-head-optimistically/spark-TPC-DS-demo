@@ -1,4 +1,4 @@
-# Spark-TPCDS
+# spark-TPC-DS-demo
 A test demo about TPC-DS running on Spark
 
 
