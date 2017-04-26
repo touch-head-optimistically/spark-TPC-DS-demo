@@ -19,4 +19,4 @@ Usage:
 
 4. submit jar with spark-submit:
 
-`./bin/spark-submit  /foo/tpcds.jar  /{your-tpcds-data-dir} ...other custom settings`
+        `./bin/spark-submit  /foo/tpcds.jar  /{your-tpcds-data-dir} ...other custom settings`
