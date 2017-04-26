@@ -1,10 +1,11 @@
 # spark-TPC-DS-demo
 A test demo about TPC-DS running on Spark.
 
-Spark version:2.0.2+
+Test version:
 
-TPC-DS version:2.4.0+
+   Spark version:2.0.2+
 
+   TPC-DS version:2.4.0+
 
 
 Usage:
