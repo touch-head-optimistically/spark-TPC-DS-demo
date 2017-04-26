@@ -10,4 +10,4 @@ TPC-DS version:2.4.0+
 
 Usage:
 
-`./bin/spark-submit  /foo/tpcds.jar  /{your tpcds data dir}`
+`./bin/spark-submit  /foo/tpcds.jar  /{your tpcds data dir} ...other custom settings`
