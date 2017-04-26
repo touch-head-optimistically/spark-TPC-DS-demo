@@ -11,7 +11,7 @@ Test version:
 Usage:
 
 1. download tpc-ds:
-    building your test data for 10G, 100G or more
+    build your test data for 10G, 100G or more
     
         ./dsdgen -scale 100 -dir /{your-tpcds-data-dir} -paraller 10
 
